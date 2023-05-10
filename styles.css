@@ -25,7 +25,6 @@ h1 {
 
 .side-image img {
     height: 100vh;
-
 }
 
 #left-image {
@@ -56,10 +55,10 @@ h2 {
 }
 
 .ps {
-    margin-top: 6em;
-    margin-bottom: 0;
-    font-size: 1.8em;
+    margin: 6em auto 0 auto;
+    font-size: 2em;
     font-weight: 300;
+    vertical-align: bottom;
 }
 
 .top-bottom-image {
@@ -69,5 +68,24 @@ h2 {
 
 .top-bottom-image img {
     text-align: center;
-    width: 60vw;
+    width: 100vw;
+}
+
+@media (max-width: 500px) or (orientation: portrait) {
+    .side-image {
+        display: none;
+    }
+
+    .top-bottom-image {
+        display: block;
+    }
+
+    body {
+        font-size: 0.4em;
+        overflow: scroll;
+    }
+
+    .ps {
+        margin-bottom: 2em;
+    }
 }
