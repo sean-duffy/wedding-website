@@ -1,5 +1,6 @@
 h1 {
-    font-family: 'Passions Conflict', cursive;
+    /* font-family: 'Passions Conflict', cursive; */
+    font-family: 'Great Vibes', cursive;
     font-size: 14em;
     font-weight: 400;
     margin: 2rem;
@@ -7,8 +8,18 @@ h1 {
 
 .container {
     text-align: center;
-    margin: 5% auto;
-    margin-bottom: 0;
+    margin: 6em 0 0 0;
+    display: inline-block;
+    height: 100%;
+    vertical-align: top;
+}
+
+.side-image {
+    display: inline-block;
+}
+
+.side-image img {
+    height: 100vh;
 }
 
 p {
@@ -17,9 +28,10 @@ p {
 }
 
 body {
-    font-family: 'Roboto Slab', serif;
-    font-weight: 300;
+    font-family: 'Lora', serif;
+    font-weight: 400;
     color: #939894;
+    margin: 0;
 }
 
 h2 {
@@ -29,8 +41,12 @@ h2 {
 }
 
 .ps {
-    margin-top: 5em;
+    margin-top: 4em;
     margin-bottom: 0;
     font-size: 1.8em;
     font-weight: 300;
+}
+
+#right-image {
+    float: right;
 }
