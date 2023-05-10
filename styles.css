@@ -1,0 +1,36 @@
+h1 {
+    font-family: 'Passions Conflict', cursive;
+    font-size: 14em;
+    font-weight: 400;
+    margin: 2rem;
+}
+
+.container {
+    text-align: center;
+    margin: 5% auto;
+    margin-bottom: 0;
+}
+
+p {
+    font-size: 2.5em;
+    margin: 1rem;
+}
+
+body {
+    font-family: 'Roboto Slab', serif;
+    font-weight: 300;
+    color: #939894;
+}
+
+h2 {
+    font-size: 5em;
+    font-weight: 300;
+    margin-top: 0;
+}
+
+.ps {
+    margin-top: 5em;
+    margin-bottom: 0;
+    font-size: 1.8em;
+    font-weight: 300;
+}
