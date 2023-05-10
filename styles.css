@@ -71,7 +71,7 @@ h2 {
     width: 100vw;
 }
 
-@media (max-width: 500px) or (orientation: portrait) {
+@media (max-width: 1000px) or (orientation: portrait) {
     .side-image {
         display: none;
     }
