@@ -3,7 +3,7 @@ h1 {
     font-family: 'Great Vibes', cursive;
     font-size: 12em;
     font-weight: 400;
-    margin: 2rem;
+    margin: 1rem;
 }
 
 .container {
@@ -36,7 +36,7 @@ h1 {
 }
 
 p {
-    font-size: 2em;
+    font-size: 2.2em;
     margin: 1rem;
 }
 
@@ -49,20 +49,20 @@ body {
 }
 
 h2 {
-    font-size: 4em;
+    font-size: 4.2em;
     font-weight: 300;
     margin-top: 0;
 }
 
 .ps {
     margin: 3em auto 0 auto;
-    font-size: 1.5em;
+    font-size: 1.7em;
     font-weight: 300;
     vertical-align: bottom;
 }
 
 .button a {
-    margin: 1.5em auto 0 auto;
+    margin: 1.7em auto 0 auto;
     background-color:#708875;
     border-radius:9px;
     color:#ffffff;
@@ -81,7 +81,7 @@ h2 {
 
 .nokids {
     margin: 3em auto 0 auto;
-    font-size: 1.5em;
+    font-size: 1.7em;
     font-weight: 300;
     vertical-align: bottom;
 }
@@ -106,7 +106,7 @@ h2 {
     }
 
     body {
-        font-size: 0.4em;
+        font-size: 0.45em;
         overflow: scroll;
     }
 
@@ -127,7 +127,7 @@ h2 {
     }
 
     .button a {
-        font-size: 10.5px;
-        width: 260px;
+        font-size: 10.7px;
+        width: 270px;
     }
 }
