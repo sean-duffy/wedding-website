@@ -80,7 +80,8 @@ h2 {
 }
 
 .nokids {
-    margin: 3em auto 0 auto;
+    width: 1000px;
+    margin: 2em auto 0 auto;
     font-size: 1.7em;
     font-weight: 300;
     vertical-align: bottom;
@@ -115,7 +116,8 @@ h2 {
     }
 
     .nokids {
-        margin: 3em auto 1em auto;
+        width: 1000px;
+        margin: 2em auto 1em auto;
     }
 
     .container {
