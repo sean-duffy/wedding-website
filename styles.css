@@ -54,6 +54,12 @@ h2 {
     margin-top: 0;
 }
 
+.navbar {
+    font-size: 3em;
+    font-weight: 300;
+    margin-bottom: 2em;
+}
+
 .ps {
     margin: 3em auto 0 auto;
     font-size: 1.7em;
@@ -133,4 +139,18 @@ h2 {
         font-size: 10.7px;
         width: 270px;
     }
+}
+
+.navbar a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.navbar a:hover {
+    text-decoration: none;
+    color: #93b499;
+}
+
+iframe {
+    margin-top: -60px;
 }
