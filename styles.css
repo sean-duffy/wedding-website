@@ -12,6 +12,7 @@ h1 {
     display: inline-block;
     height: 100%;
     vertical-align: top;
+    width: 50%;
 }
 
 .big-container {
@@ -128,6 +129,7 @@ h2 {
 
     .container {
         margin-top: 0;
+        width: unset;
     }
 
     h1 {
@@ -149,4 +151,8 @@ h2 {
 .navbar a:hover {
     text-decoration: none;
     color: #93b499;
+}
+
+.info {
+    text-align: left;
 }
