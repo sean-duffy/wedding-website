@@ -141,6 +141,10 @@ h2 {
         font-size: 10.7px;
         width: 270px;
     }
+
+    .info h3 {
+        margin-left: 2em;
+    }
 }
 
 .navbar a {
