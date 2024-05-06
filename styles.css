@@ -46,6 +46,9 @@ body {
     font-weight: 400;
     color: #708875;
     margin: 0;
+}
+
+body.noscroll {
     overflow: hidden;
 }
 
@@ -58,7 +61,7 @@ h2 {
 .navbar {
     font-size: 3em;
     font-weight: 300;
-    margin-bottom: 2em;
+    margin-bottom: 1em;
 }
 
 .ps {
@@ -88,7 +91,7 @@ h2 {
 
 .nokids {
     width: 1000px;
-    margin: 2em auto 0 auto;
+    margin: 1em auto 0 auto;
     font-size: 1.7em;
     font-weight: 300;
     vertical-align: bottom;
@@ -102,6 +105,13 @@ h2 {
 .top-bottom-image img {
     text-align: center;
     width: 100vw;
+}
+
+.photo {
+    width: 40%;
+    height: 40%;
+    border: 5px #5b7460 solid;
+    border-radius: 3px;
 }
 
 @media only screen and (max-width: 1650px) {
