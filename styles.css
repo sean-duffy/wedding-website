@@ -48,10 +48,6 @@ body {
     margin: 0;
 }
 
-body.noscroll {
-    overflow: hidden;
-}
-
 h2 {
     font-size: 4.2em;
     font-weight: 300;
